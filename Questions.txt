@@ -1,0 +1,2 @@
+Can movie ratings be used in determining viewer tastes?
+Is it possible for viewers to be grouped based on the movies they watch?
